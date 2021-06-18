@@ -17,11 +17,5 @@
       "id": 2
     }
   ],
-  "todoList": [
-    {
-      "title": "give training",
-      "isDone": false,
-      "id": 1
-    }
-  ]
+  "todoList": []
 }
